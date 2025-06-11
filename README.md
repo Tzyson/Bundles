@@ -59,7 +59,9 @@ ItemType:CosmeticID
 - Here’s how to set up each item in your shop:  
 
 - **`itemGrants`:** Add the formatted Cosmetic ID for the item you want to sell.  
-- **`price`:** Set the cost using Fortnite’s official V-Bucks prices.  
+- **`price`:** Set the cost using Fortnite’s official V-Bucks prices.
+- **`shopHistory`:** do not modify this, this is modified automatically on Axys item shop refresh.
+- **`introduction`:** do not modify this, this is modified automatically on Axys item shop refresh.
 
 ### ✅ **Example Config Setup:**  
 ```json
