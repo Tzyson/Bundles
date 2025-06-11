@@ -1,0 +1,15 @@
+{
+    "BUNDLE NAME": "EXAMPLE LOCKER",
+    "idType": "AthenaCharacter:CID_LOL",
+    "id1Type": "AthenaPickaxe:Pickaxe_LOL",
+    "id2Type": "AthenaGlider:Glider_Lol",
+    "id3Type": "AthenaDance:EID_LOL",
+    "id4Type": "AthenaBackpack:Backpack_LOL",
+    "bundleid": "",
+    "price": 5000,
+    "introduction": {
+        "chapter": "AXYS",
+        "season": "19"
+    },
+    "shopHistory": null
+}
